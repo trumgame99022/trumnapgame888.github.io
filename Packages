@@ -1,0 +1,11 @@
+Package: com.rpetrich.rocketbootstrap
+Version: 1.0
+Section: Tweaks
+Maintaine: NguyenDuy
+Architecture: iphoneos-arm
+Filename: ./debs/Xa-TrumGame.deb
+Size: 121
+MD5sum: ddf5442b7d20085cd758f7626075c71c
+Description: Chuc cac ban nap game vui ve va may man all set suot ngay nhe
+Name: Xa-TrumGame
+Author: NguyenDuy
